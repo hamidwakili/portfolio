@@ -1,17 +1,17 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://lanyon.getpoole.com
+title:               Hamid
+tagline:             'Engineering the future'
+description:         'I am a highly skilled and experienced software engineer with over a decade of expertise in both backend and frontend development.'
+url:                 https://hamidwakili.de
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Hamid Wakili
+  url:               https://hamidwakili.de
+  email:             hello@hamidwakili.de
 
 # Gems
 plugins:
