@@ -20,3 +20,4 @@ plugins:
 # Custom vars
 version:             1.1.0
 google_analytics_id: G-ZR3DK4JHR9
+google_tag_id: GTM-PQDHXSRM
